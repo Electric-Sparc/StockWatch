@@ -1,0 +1,210 @@
+{
+    "quoteResponse": {
+        "result": [
+            {
+                "symbol": "SBIN.NS",
+                "twoHundredDayAverageChangePercent": {
+                    "raw": -0.23274276,
+                    "fmt": "-23.27%"
+                },
+                "fiftyTwoWeekLowChangePercent": {
+                    "raw": 0.27868858,
+                    "fmt": "27.87%"
+                },
+                "language": "en-IN",
+                "earningsTimestampEnd": {
+                    "raw": 1596556800,
+                    "fmt": "2020-08-04",
+                    "longFmt": "2020-08-04T21:30"
+                },
+                "regularMarketDayRange": {
+                    "raw": "184.25 - 191.45",
+                    "fmt": "184.25 - 191.45"
+                },
+                "epsForward": {
+                    "raw": 29.05,
+                    "fmt": "29.05"
+                },
+                "regularMarketDayHigh": {
+                    "raw": 191.45,
+                    "fmt": "191.45"
+                },
+                "twoHundredDayAverageChange": {
+                    "raw": -57.96901,
+                    "fmt": "-57.97"
+                },
+                "twoHundredDayAverage": {
+                    "raw": 249.06902,
+                    "fmt": "249.07"
+                },
+                "askSize": {
+                    "raw": 0,
+                    "fmt": "0",
+                    "longFmt": "0"
+                },
+                "bookValue": {
+                    "raw": 281.312,
+                    "fmt": "281.31"
+                },
+                "marketCap": {
+                    "raw": 1705492873216,
+                    "fmt": "1.705T",
+                    "longFmt": "1,705,492,873,216"
+                },
+                "fiftyTwoWeekHighChange": {
+                    "raw": -182.69998,
+                    "fmt": "-182.70"
+                },
+                "fiftyTwoWeekRange": {
+                    "raw": "149.45 - 373.8",
+                    "fmt": "149.45 - 373.80"
+                },
+                "fiftyDayAverageChange": {
+                    "raw": 22.432358,
+                    "fmt": "22.43"
+                },
+                "averageDailyVolume3Month": {
+                    "raw": 66305809,
+                    "fmt": "66.306M",
+                    "longFmt": "66,305,809"
+                },
+                "firstTradeDateMilliseconds": 820467900000,
+                "exchangeDataDelayedBy": 15,
+                "trailingAnnualDividendRate": {
+                    "raw": 2.6,
+                    "fmt": "2.60"
+                },
+                "fiftyTwoWeekLow": {
+                    "raw": 149.45,
+                    "fmt": "149.45"
+                },
+                "market": "in_market",
+                "regularMarketVolume": {
+                    "raw": 62282512,
+                    "fmt": "62.283M",
+                    "longFmt": "62,282,512"
+                },
+                "quoteSourceName": "Free Realtime Quote",
+                "messageBoardId": "finmb_874487",
+                "priceHint": 2,
+                "regularMarketDayLow": {
+                    "raw": 184.25,
+                    "fmt": "184.25"
+                },
+                "sourceInterval": 15,
+                "exchange": "NSI",
+                "region": "IN",
+                "shortName": "STATE BK OF INDIA",
+                "fiftyDayAverageChangePercent": {
+                    "raw": 0.1329974,
+                    "fmt": "13.30%"
+                },
+                "fullExchangeName": "NSE",
+                "earningsTimestampStart": {
+                    "raw": 1596207540,
+                    "fmt": "2020-07-31",
+                    "longFmt": "2020-07-31T20:29"
+                },
+                "financialCurrency": "INR",
+                "gmtOffSetMilliseconds": 19800000,
+                "regularMarketOpen": {
+                    "raw": 185.0,
+                    "fmt": "185.00"
+                },
+                "regularMarketTime": {
+                    "raw": 1592815929,
+                    "fmt": "2:22PM IST"
+                },
+                "regularMarketChangePercent": {
+                    "raw": 3.577239,
+                    "fmt": "3.58%"
+                },
+                "quoteType": "EQUITY",
+                "trailingAnnualDividendYield": {
+                    "raw": 0.014092141,
+                    "fmt": "0.01%"
+                },
+                "averageDailyVolume10Day": {
+                    "raw": 70485410,
+                    "fmt": "70.485M",
+                    "longFmt": "70,485,410"
+                },
+                "fiftyTwoWeekLowChange": {
+                    "raw": 41.65001,
+                    "fmt": "41.65"
+                },
+                "fiftyTwoWeekHighChangePercent": {
+                    "raw": -0.48876402,
+                    "fmt": "-48.88%"
+                },
+                "trailingPE": {
+                    "raw": 8.62754,
+                    "fmt": "8.63"
+                },
+                "tradeable": false,
+                "currency": "INR",
+                "sharesOutstanding": {
+                    "raw": 8924609536,
+                    "fmt": "8.925B",
+                    "longFmt": "8,924,609,536"
+                },
+                "fiftyTwoWeekHigh": {
+                    "raw": 373.8,
+                    "fmt": "373.80"
+                },
+                "regularMarketPreviousClose": {
+                    "raw": 184.5,
+                    "fmt": "184.50"
+                },
+                "exchangeTimezoneName": "Asia/Kolkata",
+                "regularMarketChange": {
+                    "raw": 6.600006,
+                    "fmt": "6.60"
+                },
+                "bidSize": {
+                    "raw": 0,
+                    "fmt": "0",
+                    "longFmt": "0"
+                },
+                "fiftyDayAverage": {
+                    "raw": 168.66765,
+                    "fmt": "168.67"
+                },
+                "exchangeTimezoneShortName": "IST",
+                "marketState": "REGULAR",
+                "regularMarketPrice": {
+                    "raw": 191.1,
+                    "fmt": "191.10"
+                },
+                "forwardPE": {
+                    "raw": 6.578314,
+                    "fmt": "6.58"
+                },
+                "earningsTimestamp": {
+                    "raw": 1591369140,
+                    "fmt": "2020-06-05",
+                    "longFmt": "2020-06-05T20:29"
+                },
+                "ask": {
+                    "raw": 191.25,
+                    "fmt": "191.25"
+                },
+                "epsTrailingTwelveMonths": {
+                    "raw": 22.15,
+                    "fmt": "22.15"
+                },
+                "bid": {
+                    "raw": 191.15,
+                    "fmt": "191.15"
+                },
+                "priceToBook": {
+                    "raw": 0.67931694,
+                    "fmt": "0.68"
+                },
+                "triggerable": false,
+                "longName": "State Bank of India"
+            }
+        ],
+        "error": null
+    }
+}
